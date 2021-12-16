@@ -1,0 +1,23 @@
+body {
+    text-align:center;
+}
+
+#apps {
+    background-color: cyan;
+}
+#games {
+    background-color: darksalmon;
+}
+
+#chatbot {
+    background-color: cornflowerblue;
+}
+#apps,#games,#chatbot {
+    font-family:cursive;
+}
+.line {
+    margin:10px auto;
+    height:5px;
+    width:60px;
+    background-color:black ;
+}
